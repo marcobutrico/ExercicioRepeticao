@@ -12,3 +12,4 @@ C:\Users\fic\source\repos\MarcoAB\Exercicios\Exercicios\obj\Debug\net9.0\refint\
 C:\Users\fic\source\repos\MarcoAB\Exercicios\Exercicios\obj\Debug\net9.0\Exercicios.pdb
 C:\Users\fic\source\repos\MarcoAB\Exercicios\Exercicios\obj\Debug\net9.0\Exercicios.genruntimeconfig.cache
 C:\Users\fic\source\repos\MarcoAB\Exercicios\Exercicios\obj\Debug\net9.0\ref\Exercicios.dll
+C:\Users\fic\source\repos\MarcoAB\Exercicios\Exercicios\obj\Debug\net9.0\Exercicios.sourcelink.json
